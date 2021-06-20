@@ -1,5 +1,9 @@
 # Project structure
 Desktop application for managing images of the studies.
+
+This project used DDD:
+- https://en.wikipedia.org/wiki/Domain-driven_design
+
 <pre>
 app-image-desktop/
 │
