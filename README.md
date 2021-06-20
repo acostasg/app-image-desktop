@@ -85,9 +85,7 @@ python3 app/main.py
 ```
 
 For use this application is necessary the api:
-```
-https://github.com/acostasg/app-image-api
-```
+- https://github.com/acostasg/app-image-api
 
 # Create Executable Application
 ```python
