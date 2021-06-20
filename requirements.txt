@@ -1,0 +1,7 @@
+PyQt6==6.0.3
+marshmallow~=3.11.1
+mock
+requests~=2.25.1
+setuptools~=49.2.1
+requests
+envyaml

@@ -1,0 +1,21 @@
+sftp:
+  host: sftp.example.com
+  port: 421
+  username: example.com
+  secret: gf6233d67
+
+directories:
+  photoPath: "/data/production/image/photo/campaign/"
+  shootingPath: "/data/production/image/shooting/"
+  resizeShootingPath: "http://resizeimgs/shooting/"
+  resizePhotoPath: "http://resizeimgs/photo/campaign/"
+  maxReferences: 6
+  maxImagesReference: 10
+  imageRefresh: 2000
+  charDelimiter: "_-_"
+  charFolderDelimiter: "_"
+
+api:
+  host: "http://127.0.0.1:8080"
+  endpoints:
+    references: "/references"
