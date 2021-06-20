@@ -1,4 +1,4 @@
-#Project structure
+# Project structure
 Desktop application for managing images of the studies.
 <pre>
 app-image-desktop/
